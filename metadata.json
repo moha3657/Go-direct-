@@ -1,0 +1,6 @@
+{
+  "name": "DirectChat Secure",
+  "description": "Secure offline peer-to-peer messaging and file sharing using Wi-Fi Direct and E2EE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
